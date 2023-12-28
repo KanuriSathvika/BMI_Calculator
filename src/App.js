@@ -17,9 +17,6 @@ function App() {
     setBmi(bmi_val );
 
     let bmi_style=document.getElementById("bmi_status");
-    console.log(bmi);
-    console.log(bmi_val);
-
     
     if(bmi_val<18.5){
       bmi_style.style.color="red";
@@ -32,7 +29,7 @@ function App() {
       
     }
     else if(25<=bmi_val && bmi_val<30){
-      bmi_style.style.color="yellow";
+      bmi_style.style.color="#FFD700";
       setStatus("You are Over Weight");
     }
     else{
