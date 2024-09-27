@@ -1,6 +1,8 @@
 # BMI CALCULATOR
 ## Link: [Live site](https://kanurisathvika.github.io/BMI_Calculator/)
 
+### Output
+![image](https://github.com/user-attachments/assets/ccea9f6a-9ff1-412f-8a8e-43eac73ae569)
 
 
 # Getting Started with Create React App
